@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyecto-bfb16": {
+      "hosting": {
+        "prueba": [
+          "proyecto-bfb16"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyecto-bfb16"
+  }
+}
