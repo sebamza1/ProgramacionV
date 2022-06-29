@@ -1,4 +1,8 @@
 {
+  "projects": {
+    "default": "tarjetacredito-78f18",
+    "tarjetaProd": "tarjetacredito-78f18"
+  },
   "targets": {
     "proyecto-bfb16": {
       "hosting": {
@@ -7,8 +11,5 @@
         ]
       }
     }
-  },
-  "projects": {
-    "default": "proyecto-bfb16"
   }
 }
